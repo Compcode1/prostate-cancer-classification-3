@@ -1,0 +1,3 @@
+The low F1 score of **0.47** in Project 3 underscores the difficulty of achieving good model performance when dealing with highly imbalanced datasets, especially when the minority class (clinically significant cancer) represents only 5% of the population. This is in stark contrast to Projects 1 and 2, which had better F1 scores due to more balanced or moderately imbalanced datasets. 
+
+In **Project 3**, the model is challenged by both the extreme class imbalance and the overlap in probability ranges, which makes it difficult to optimize both **Precision** and **Recall**.  This highlights the limitations of the model's performance in this scenario compared to the higher scores achieved in previous projects.
